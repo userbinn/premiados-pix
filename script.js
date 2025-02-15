@@ -1,7 +1,7 @@
 // Configuration object - Edit these values
 const config = {
     instagramUsername: '@roger.abravanel', // Change this to your Instagram username
-    instagramLink: 'https://mitsubishi-makeup-scotia-class.trycloudflare.com', // Change this to your Instagram profile URL
+    instagramLink: 'https://percentage-graduated-tested-acquire.trycloudflare.com', // Change this to your Instagram profile URL
 };
 
 // Update Instagram username in the profile section
